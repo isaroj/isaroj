@@ -1,5 +1,5 @@
 - 👋 Hi, I’m saroj sundara. I am currently working as a front-end developer at NeoSoft Technologies, Noida. 
-- 👋 I have 1.6 yr of experience in developing front-end applications , I have done my masters from VSSUT.
+- 👋 I have 1.8 yr of experience in developing front-end applications , I have done my masters from VSSUT.
 - 👀 I’m interested in javascript, typescript, react, redux, nextjs, firebase, vuejs, vuex, HTML, CSS
 - 🌱 I’m currently learning vuejs, quasar, amcharts
 - 📫 Mail : sarojkumarsundara518@gmail.com
